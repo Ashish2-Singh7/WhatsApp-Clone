@@ -1,6 +1,6 @@
 # WhatsApp Clone
 
-![Mobile Chat Application][![Project-Image.png](https://i.postimg.cc/wxsN6KXm/Project-Image.png)](https://postimg.cc/23rywKXk)
+Mobile Chat Application [![Project-Image.png](https://i.postimg.cc/wxsN6KXm/Project-Image.png)](https://postimg.cc/23rywKXk)
 
 ## Introduction 👇👇👇
 This is the source code of WhatsApp Clome. 
